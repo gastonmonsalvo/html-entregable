@@ -1,6 +1,3 @@
-# html-entregable
-Tercera tarea HTML
-
 ## Tercera tarea HTML
 
 Esta será la primera tarea entregable. El objetivo es que tengan una jugosa devolución 
